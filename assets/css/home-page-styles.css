@@ -184,3 +184,20 @@ body[id^="spider-man-"] .s-card:not(.s-card--hovered) {
   transform-style: preserve-3d;
   transition: transform 0.4s ease-in;
 }
+
+
+
+footer {
+  margin: 30px auto 0; /* Margem superior de 30px, auto para centralizar */
+  padding: 0;
+  text-align: center;
+  font-size: .625rem;
+  line-height: 2;
+  color: #fff;
+  background-color: #339bf0;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+  display: block; /* Faz o elemento ocupar 100% da largura disponível */
+  width: max-content; /* Ajusta a largura ao conteúdo */
+}
