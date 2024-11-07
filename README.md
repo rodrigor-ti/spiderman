@@ -1,4 +1,4 @@
-## 🕸️🕷️ Live Spider-Man Multiversos 🎮🕹️
+## 🕸️🕷️ Spider-Man Multiversos 🎮🕹️
 
 <div align="justify">
 Bem-vindo ao projeto Multiverso Spider-Man! Este projeto foi desenvolvido como uma página web interativa que explora o universo do Spider-Man, utilizando apenas HTML, CSS e JavaScript. Inspirado nas aventuras do herói aracnídeo em diferentes dimensões, o site oferece uma experiência visual dinâmica e envolvente, com um design responsivo que se adapta a diversas telas!
